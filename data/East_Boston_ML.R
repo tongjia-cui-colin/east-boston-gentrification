@@ -200,3 +200,4 @@ hc_summary <- data %>%
                      Public_Assistance_Rate),
                    ~mean(.x, na.rm = TRUE)))
 hc_summary
+
