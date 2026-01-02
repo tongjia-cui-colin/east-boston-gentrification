@@ -1,7 +1,5 @@
 # East Boston Gentrification Analysis
-
-## Date 
-December, 2024
+*Last updated: December 2025*
 
 ## Overview
 This project examines neighborhood-level gentrification dynamics in East Boston using census block-group panel data. The analysis focuses on how socioeconomic characteristics relate to rising median rents and identifies block-group-specific variations in rental trends.
